@@ -1,0 +1,14 @@
+const Comp2=()=>{
+
+    return(
+
+        <>
+          
+          <h1>welcome to comp2!!!</h1>
+        
+        
+        </>
+    )
+
+};
+export default Comp2;
